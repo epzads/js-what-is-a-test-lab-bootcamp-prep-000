@@ -21,4 +21,4 @@ function add(x,y) {
 }
 
 console.log (add (1,2))
-sayhiTO("HEllo","Alex")
+sayhiTo("HEllo","Alex")

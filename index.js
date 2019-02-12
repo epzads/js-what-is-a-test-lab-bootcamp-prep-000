@@ -11,7 +11,7 @@ function sayhelloTo(firstName){
 
 
 function sayhiTo(hello,firstName){
-    return `${Hello},  ${firstName}!` );
+    return `${hello},  ${firstName}!` );
 }
 
 

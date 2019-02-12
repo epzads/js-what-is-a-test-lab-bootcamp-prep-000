@@ -6,7 +6,7 @@ var message = ` ${name} is ${height} inches tall`
 module.exports = {name, height, message}
 
 function sayhelloTo(firstName){
-    console.log("Hello"(firstName))
+    console.log("Hello"firstName)
 }
 
 sayhelloTO("Jackie")

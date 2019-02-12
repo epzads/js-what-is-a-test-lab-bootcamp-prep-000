@@ -10,3 +10,9 @@ function sayhelloTo(firstName){
 }
 
 sayhelloTo("Jackie")
+
+function say (greeting,firstName){
+  console.log(`${greeting},${firstName}!`)
+}
+
+say("hello","Alex")

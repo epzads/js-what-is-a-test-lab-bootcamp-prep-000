@@ -10,7 +10,7 @@ function sayhelloTo(firstName){
 }
 
 
-function sayhiTo(firstName){
+function sayhiTo(hello,firstName){
     return `${Hello},  ${firstName}!` );
 }
 
@@ -21,3 +21,4 @@ function add(x,y) {
 }
 
 console.log (add (1,2))
+sayhiTO("HEllo","Alex")

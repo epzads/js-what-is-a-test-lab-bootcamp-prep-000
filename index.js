@@ -9,6 +9,12 @@ function sayhelloTo(firstName){
     console.log("Hello" + firstName );
 }
 
+
+function sayhiTo(firstName){
+    return `${Hello},  ${firstName}!` );
+}
+
+
 function add(x,y) {
 
   return x + y

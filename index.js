@@ -9,10 +9,9 @@ function sayhelloTo(firstName){
     console.log("Hello" + firstName );
 }
 
-sayhelloTo("Jackie")
+function add(x,y) {
 
-function say (greeting,firstName){
-  console.log(`${greeting},${firstName}!`)
+  return x + y
 }
 
-say("hello","Alex")
+console.log (add (1,2))
